@@ -10,7 +10,6 @@ Cleaned runnable version for Nino3.4 scalar prediction.
 - `PhysDualLoss.py`: PhysDualNet loss.
 - `utils.py`: evaluation and plotting utilities.
 - `predict_utils.py`: lightweight future-prediction plotting helper.
-- `smoke_test.py`: dependency-light model forward test.
 
 ## Install
 
